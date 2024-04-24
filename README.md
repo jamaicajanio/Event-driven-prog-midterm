@@ -2,4 +2,5 @@
 
 ### Jamaica Janio
 
-![image](https://github.com/jamaicajanio/Event-Driven-Programming/assets/164025042/b5424add-1e5a-490c-84cd-e3b383c2a349)
+
+![Screenshot 2024-04-24 105312](https://github.com/jamaicajanio/Event-driven-prog-midterm/assets/164025042/5c349e9a-5e2d-469c-84da-e324cdf38199)
